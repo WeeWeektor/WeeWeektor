@@ -30,12 +30,12 @@ I am a motivated Python backend developer with a understanding of software devel
 
 ### 🚀 Featured Projects
 
-#### 🍔 [Tastify]([https://github.com/WeeWeektor/Tastify](https://github.com/WeeWeektor/Tastify))
+#### 🍔 [Tastify](https://github.com/WeeWeektor/Tastify)
 A scalable microservices architecture for a food delivery platform.
 * **Stack:** Python 3.12, Django 5.1, DRF, PostgreSQL, Redis, Apache Kafka, MinIO, Docker Compose.
 * **Key Features:** Event-driven inter-service communication, decentralized user profiles, custom local JWT decoding middleware, and 2FA authentication.
 
-#### 🎓 [Smart-Study]([https://github.com/WeeWeektor/Smart-Study](https://github.com/WeeWeektor/Smart-Study)) | [Live Demo](https://smart-study.me)
+#### 🎓 [Smart-Study](https://github.com/WeeWeektor/smart-study) | [Live Demo](https://smart-study.me)
 A complete Web platform for remote learning, emphasizing robust backend architecture.
 * **Stack:** Python, Django, DRF, PostgreSQL, MongoDB, Docker, Azure.
 * **Key Features:** Hybrid database system (relational data + dynamic content), machine learning recommendation model integration, and full ecosystem containerization.
@@ -44,9 +44,9 @@ A complete Web platform for remote learning, emphasizing robust backend architec
 
 ### 📊 GitHub Stats
 
-![Viktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeeWeektor&show_icons=true&theme=radical&hide_border=true)
+![Viktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeeWeektor&show_icons=true&theme=radical&hide_border=true&v=1)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeeWeektor&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeeWeektor&layout=compact&theme=radical&hide_border=true&v=1)
 
 ---
 
