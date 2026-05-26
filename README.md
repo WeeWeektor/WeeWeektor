@@ -44,10 +44,9 @@ A complete Web platform for remote learning, emphasizing robust backend architec
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WeeWeektor&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeWeektor&layout=compact&theme=radical&hide_border=true" />
-</div>
+![Viktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeeWeektor&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeeWeektor&layout=compact&theme=radical&hide_border=true)
 
 ---
 
